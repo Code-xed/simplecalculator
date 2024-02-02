@@ -12,7 +12,7 @@ function getResult() {
 }
 
 function clearText() {
-  document.getElementById('num2').value =  "";
+  document.getElementById('num2').value = "";
 }
 
 function deleteText() {
