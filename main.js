@@ -1,5 +1,5 @@
 function addNum(name) {
-  window.navigator.vibrate(200);
+  window.navigator.vibrate(20);
   const ifield = document.getElementById('num2');
   let pv = ifield.value;
   ifield.value = pv + name;
